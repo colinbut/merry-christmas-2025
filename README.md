@@ -4,4 +4,4 @@
 
 ### Author
 
-Colim but.
+Colin But.
